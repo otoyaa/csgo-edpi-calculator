@@ -1,0 +1,14 @@
+{
+    // "window.restoreFullscreen": true,
+    "editor.fontSize": 20,
+    "editor.fontLigatures": false,
+    "editor.tabSize": 4,
+    "editor.fontFamily": "Ebrima",
+    "terminal.integrated.fontSize": 10,
+    "files.autoSave": "afterDelay",
+    "editor.cursorStyle": "line",
+    "editor.wordWrap": wordWrapColumn,
+    "editor.wordWrapColumn": 85,
+    "python.formatting.provider": "yapf",
+    "python.analysis.typeCheckingMode": "basic"
+}
